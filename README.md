@@ -18,6 +18,8 @@ Some exterior work
 # Using my work
 If you enjoy my work and you're playing cataclysm, select Mushroom Dream in the graphics menu (still not avaliable, but you can download the latest package and place the contents under gfx in your cdda folder!).
 
+My work is copyrighted and is not compatible with  variations of the CDDA game that are not distributed under CleverRaven. Please read the licence. Thank you.
+
 
 # Sponsoring
 If you like this project and wanna help me out making this grow please share, or if you can, throw me a dollar!
