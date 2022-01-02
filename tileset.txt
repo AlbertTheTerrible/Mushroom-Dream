@@ -13,6 +13,7 @@ JSON: tile_config.json
 TILESET: normal.png
 
 
-#Visit https://discord.gg/kAXNZuy to discuss and contribute to this community-driven tileset!
+#Visit https://discord.gg/jFEc7Yp for the official CDDA development discord, https://discord.gg/kAXNZuy to check progress on all CDDA tileset development! You can also join https://www.reddit.com/r/mushroomDream/ to follow 
+mushroom Dream development.
 #Development ongoing constantly!
-#Find source github at https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/Mushroom-Dream
+#Find the latest release at https://github.com/AlbertTheTerrible/Mushroom-Dream
