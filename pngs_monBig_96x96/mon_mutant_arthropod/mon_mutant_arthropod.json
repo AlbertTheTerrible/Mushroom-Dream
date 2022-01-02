@@ -1,0 +1,11 @@
+  {
+    "id": "mon_mutant_arthropod",
+    "fg": [ 
+	{ "weight": 50, "sprite": "mon_mutant_arthropod1" }, 
+	{ "weight": 50, "sprite": "mon_mutant_arthropod2" } 
+	],
+	
+  "bg": [
+    ""
+  ]
+  }
