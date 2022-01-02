@@ -1,0 +1,52 @@
+{
+  "id": "t_door_metal_locked",
+  "fg": "t_door_metal_locked_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_door_metal_locked_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_door_metal_locked_corner_nw",
+        "t_door_metal_locked_corner_sw",
+        "t_door_metal_locked_corner_se",
+        "t_door_metal_locked_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_door_metal_locked_t_connection_n",
+        "t_door_metal_locked_t_connection_w",
+        "t_door_metal_locked_t_connection_s",
+        "t_door_metal_locked_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_door_metal_locked_edge_ns",
+        "t_door_metal_locked_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_door_metal_locked_end_piece_n",
+        "t_door_metal_locked_end_piece_w",
+        "t_door_metal_locked_end_piece_s",
+        "t_door_metal_locked_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_door_metal_locked_unconnected",
+        "t_door_metal_locked_unconnected"
+      ]
+    }
+  ]
+}
