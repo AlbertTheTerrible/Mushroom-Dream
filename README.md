@@ -25,7 +25,8 @@ You can also try the mashup between MSX and MD as i complete the tileset [here](
 
 
 <p align="center">
-Here's a picture of the tileset (WIP)
+Here's a picture of the tileset (WIP)<br>
+  
 <img src=https://user-images.githubusercontent.com/80914993/148632577-a8b99ed9-6321-45e6-b800-55f2a67834a3.PNG style="width:25em;height:30em;">
 
 </p>
