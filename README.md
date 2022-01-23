@@ -24,11 +24,11 @@ You can also try the mashup between MSX and MD as i complete the tileset [here](
 
 
 
-
+<p align="center">
 Here's a picture of the tileset (WIP)
-![21321321323](https://user-images.githubusercontent.com/80914993/148632577-a8b99ed9-6321-45e6-b800-55f2a67834a3.PNG)
+<img src=https://user-images.githubusercontent.com/80914993/148632577-a8b99ed9-6321-45e6-b800-55f2a67834a3.PNG style="width:25em;height:30em;">
 
-
+</p>
 
 
 I'm also open to commissions. If you want you can also check what other stuff i'm doing on my social media: [Instagram](https://www.instagram.com/albert.the.terrible), [Twitter](https://twitter.com/terrible_albert) and contact me if you're interested, or just leave me a like or a follow ❤
