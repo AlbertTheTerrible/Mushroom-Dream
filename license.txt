@@ -1,0 +1,5 @@
+The works included in this tileset are licenced to be used specifically with the free open source game Cataclysm: Dark Days Ahead distributed under CleverRaven (see here https://github.com/CleverRaven/Cataclysm-DDA and https://cataclysmdda.org/). 
+This means, any clone, variation or other distribution of the game has NO permission to use any of the work in any way. Any change of ownership to the domains or project (as of 01//08/2021) will revoke this licence.
+You do not have any permission to distribute, rehost, relicense, sell for any currency of any kind (directly or indirectly), re-name, use textures/images from, edit or modify the above mentioned works in the tileset or any of it's 
+variations/modifications (no matter how much it changed) for any reason unless you get written and dated permission from me.
+All rights reserved.
