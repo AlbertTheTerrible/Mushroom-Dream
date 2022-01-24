@@ -26,4 +26,4 @@ If you like this project and wanna help me out making this grow please share, or
 
 
 
-Also, special thanks to Fris0uman for helping me out with the ropes on github!
+Also, special thanks to Fris0uman for helping me out with the ropes on github!.
