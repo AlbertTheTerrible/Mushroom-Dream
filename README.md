@@ -22,7 +22,7 @@ My work is copyrighted and is not compatible with  variations of the CDDA game t
 
 
 # Sponsoring
-If you like this project and wanna help me out making this grow please share, or if you can, throw me a dollar!
+If you like this project and wanna help me out making this grow please share, or if you can, throw me a dollar!.
 
 
 
