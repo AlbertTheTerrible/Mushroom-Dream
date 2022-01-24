@@ -18,9 +18,8 @@ If you like my work and wanna help me keep doing more/work faster, you can suppo
 
 # Download
 
-Click [here](https://github.com/AlbertTheTerrible/Mushroom-Dream/releases) to download the latest version for Mushroom Dream
-
-You can also try the mashup between MSX and MD as i complete the tileset [here](https://github.com/AlbertTheTerrible/Mushroom-Dream/releases/tag/13-01-2022). Please report any problems or bugs  👍
+Click [here](https://www.patreon.com/posts/new-release-24-61562944?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare) to download the latest version for Mushroom Dream or the mashup with MSX.
+Please report any problems or bugs  👍
 
 
 
