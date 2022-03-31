@@ -18,7 +18,7 @@ If you like my work and wanna help me keep doing more/work faster, you can suppo
 
 # Download
 
-Click [here](https://www.patreon.com/posts/62128641) to download the latest version for Mushroom Dream or the mashup with MSX.
+Click [here](https://www.patreon.com/posts/melee-weapons-31-64545111) to download the latest version for Mushroom Dream or the mashup with MSX.
 Please report any problems or bugs  👍
 
 The download files were recently moved to patreon, check out why [here](https://github.com/AlbertTheTerrible/Mushroom-Dream/discussions/17)
