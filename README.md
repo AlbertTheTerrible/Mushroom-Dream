@@ -16,6 +16,8 @@ My work is copyrighted and is not compatible with variations of the CDDA game th
 # Supporting
 If you like my work and wanna help me keep doing more/work faster, you can support this tileset for the low price of 2 cups of coffee a month on [Patreon](https://www.patreon.com/AlbertTheTerrible) and get your name in the credits and other weird rewards, or tip me on [ko-fi](https://ko-fi.com/alberttheterrible).
 
+Just a reminder that I am painting over an already beautiful game, made by incredible developers, and you can also support them [here](https://cataclysmdda.org/donations/) ❤
+
 # Download
 
 Click [here](https://www.patreon.com/AlbertTheTerrible) to download the latest version for Mushroom Dream or the mashup with MSX.
