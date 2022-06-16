@@ -13,6 +13,7 @@ IronGlyph
 #Active patrons
 
 JBloodthorn
+Furiat93
 
 #Supporter patrons
 
